@@ -1,12 +1,13 @@
-<<<<<<< HEAD
-# React + Vite
+# Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+This portfolio website is designed to showcase my skills, experience, and projects as a **Full Stack Developer and Problem-Solver**. It offers an intuitive, dynamic interface with a focus on user experience, responsiveness, and seamless navigation across all devices. The site includes various interactive features like dark mode, animations, and an integrated resume download option. It's built with modern web technologies like **React.js** and **Tailwind CSS**, deployed for production readiness, and optimized for both desktop and mobile platforms.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# Khushi-s-Portfolio
->>>>>>> 0efe918720dceb46a92ff97afd405d97f5ed92e9
+- **Responsive Design**: Fully optimized for mobile, tablet, and desktop devices using **Tailwind CSS** for adaptive styling.
+- **Dark Mode**: Toggle between light and dark themes, leveraging Tailwind’s class-based dark mode configuration.
+- **Animations**: Smooth, responsive animations on scroll using **AOS (Animate On Scroll)** to enhance user experience.
+- **Project Showcase**: A dedicated section displaying key projects with detailed descriptions, technologies used, GitHub repository links, and live demos.
+- **Resume Download**: Users can download my resume directly from the 'Hire Me' button for easy access.
+- **Social Integration**: Links to my GitHub, LinkedIn, and other social media profiles are readily accessible.
