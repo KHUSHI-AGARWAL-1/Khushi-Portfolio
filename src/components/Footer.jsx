@@ -1,41 +1,7 @@
-// import React from 'react'
-// import { BsFacebook, BsGithub, BsInstagram, BsLinkedin, BsYoutube } from 'react-icons/bs'
 
-// function Footer() {
-//   return (
-//     <footer>
-//         <hr className='hidden dark:block w-full'/>
-//         <div className='w-full flex flex-col md:flex-row py-20 px-8 md:px-10 gap-10 lg:gap-20 justify-between'>
-//           <p className='text-lg text-white font-semibold '> Address Deeg Gate, Mathura, India</p>
-//           <div className='flex flex-col md:flex-row text-md gap-5 md:gap-20 text-white'>
-//             <a href="#home">Home</a>
-//             <a href="#about">About</a>
-//             <a href="#projects">Projects</a>
-
-//           </div>
-//           <div className='flex flex-col gap-5 text-md text-white'>
-// <p >khushiag23032003@gmail.com</p>
-// <p>+91 7017647664</p>
-//           </div>
-//         </div>
-//         <div className='flex flex-col gap-10 justify-center items-center pb-20'>
-// <p className='text-white font-semibold tracking-wider'>Social Media</p>
-// <div className='flex gap-10 text-white text-2xl mb-10'>
-// <BsYoutube className='hover:scale-125'/>
-// <BsFacebook className='hover:scale-125'/>
-// <BsInstagram className='hover:scale-125'/>
-// <BsLinkedin className='hover:scale-125'/>
-// <BsGithub className='hover:scale-125'/>
-// </div>
-// <p className='text-gray-400 text-md tracking-wider'>@2024 KhushiAgrawal</p>
-//         </div>
-//     </footer>
-//   )
-// }
-
-// export default Footer
 import React from 'react';
 import { BsFacebook, BsGithub, BsInstagram, BsLinkedin, BsYoutube } from 'react-icons/bs';
+import { SiLeetcode } from 'react-icons/si';
 
 function Footer() {
   return (
@@ -66,15 +32,15 @@ function Footer() {
         <div className="flex flex-col gap-5 justify-center items-center py-10">
           <p className="text-lg font-semibold tracking-wider  text-black dark:text-white">Follow Us</p>
           <div className="flex gap-8 text-3xl mb-5  text-black dark:text-white">
-          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="hover:text-blue-600 transition-colors duration-300">
+          <a href="https://www.linkedin.com/in/khushi-agrawal-7854961b6/" target="_blank" rel="noopener noreferrer" className="hover:text-blue-600 transition-colors duration-300">
               <BsLinkedin />
             </a>
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="hover:text-gray-500 transition-colors duration-300">
+            <a href="https://github.com/KHUSHI-AGARWAL-1/" target="_blank" rel="noopener noreferrer" className="hover:text-gray-500 transition-colors duration-300">
               <BsGithub />
             </a>
          
-            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="hover:text-pink-600  transition-colors duration-300">
-              <BsInstagram />
+            <a href="https://leetcode.com/u/Khushi_Agrawal-23/" target="_blank" rel="noopener noreferrer" className="hover:text-orange-600  transition-colors duration-300">
+              <SiLeetcode />
             </a>
               <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="hover:text-blue-900 transition-colors duration-300">
               <BsFacebook />
