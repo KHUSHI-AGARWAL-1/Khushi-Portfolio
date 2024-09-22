@@ -11,3 +11,5 @@ This portfolio website is designed to showcase my skills, experience, and projec
 - **Project Showcase**: A dedicated section displaying key projects with detailed descriptions, technologies used, GitHub repository links, and live demos.
 - **Resume Download**: Users can download my resume directly from the 'Hire Me' button for easy access.
 - **Social Integration**: Links to my GitHub, LinkedIn, and other social media profiles are readily accessible.
+
+<!-- hii -->
